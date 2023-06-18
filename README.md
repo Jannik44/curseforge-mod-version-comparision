@@ -4,7 +4,7 @@ Decide wich version you want with up to date version data from cursoforge withou
 
 ![image](https://github.com/Jannik44/curseforge-mod-version-comparision/assets/76906033/ea6c83e5-5180-4dc6-800e-0f574d5b3a59)
 
-##installation
+## installation
 
 nodejs needs to be installed checks its there with 
 node -v
