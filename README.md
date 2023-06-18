@@ -9,7 +9,7 @@ Decide wich version you want with up to date version data from cursoforge withou
 nodejs needs to be installed checks its there with  
 ```node -v```  
 
-next, download the files, to a local directory
+next, download the files, to a local directory and install playwright (see here for more information: https://playwright.dev/docs/intro)
 inside of the folder is a file called mods.txt, insert the curseforge mod names there, you can get those from the links, example:  
 ```https://www.curseforge.com/minecraft/mc-mods/ic2-classic/files```
 here the mod name is "ic2-classic"  
