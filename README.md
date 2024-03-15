@@ -1,7 +1,8 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/jannik44/curseforge-mod-version-comparision/badge)](https://www.codefactor.io/repository/github/jannik44/curseforge-mod-version-comparision)
 # curseforge-mod-version-comparision
 A Programm to help choosing a minecraft version for your mods
-Decide wich version you want with up to date version data from curseforge without using their API in a pretty table
+
+Decide wich version you want with up to date versioning data from curseforge without using their API in a pretty html table
 
 ![image](https://github.com/Jannik44/curseforge-mod-version-comparision/assets/76906033/ea6c83e5-5180-4dc6-800e-0f574d5b3a59)
 
