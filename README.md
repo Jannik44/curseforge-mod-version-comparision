@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/jannik44/curseforge-mod-version-comparision/badge)](https://www.codefactor.io/repository/github/jannik44/curseforge-mod-version-comparision)
+## This code has worked in the past but curseforge changed their page, therefore not working rn
 # curseforge-mod-version-comparision
 A Programm to help choosing a minecraft version for your mods
 
